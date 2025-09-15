@@ -78,7 +78,6 @@ export default function Home() {
       <div id="footer" data-section="footer">
         <FooterBase
           logoSrc="/images/logo.svg"
-          logoAlt="Your SaaS Brand Logo"
           logoWidth={100}
           logoHeight={50}
           columns={[
